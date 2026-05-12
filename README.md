@@ -14,7 +14,7 @@
 
 ### About me
 
-I am a senior consultant and researcher operating at the intersection of **artificial intelligence, neuroscience, finance, and law**. I design and ship production-grade AI systems. I hold a **Master in Liberal Arts in Finance (ALM)** from **Harvard Extension School** and an **MBA** from **IPADE Business School**.
+I am a senior consultant and researcher operating at the intersection of **artificial intelligence, neuroscience, finance, and law**. I design and ship production-grade AI systems. I hold a **Master in Liberal Arts in Finance (ALM)** from **Harvard ** and an **MBA** from **IPADE Business School**.
 My work spans multiple verticals — each one its own GitHub Organization:
 
 | Vertical | Organization | Flagship |
