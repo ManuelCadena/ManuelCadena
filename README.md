@@ -14,20 +14,18 @@
 
 ### About me
 
-I am a senior consultant and researcher operating at the intersection of **artificial intelligence, neuroscience, finance, and law**. I design and ship production-grade AI systems while pursuing graduate studies at **Harvard Extension** (Statistical Data Modeling, CSCI E-106).
-
+I am a senior consultant and researcher operating at the intersection of **artificial intelligence, neuroscience, finance, and law**. I design and ship production-grade AI systems. I hold a **Master in Liberal Arts in Finance (ALM)** from **Harvard Extension School** and an **MBA** from **IPADE Business School**.
 My work spans multiple verticals — each one its own GitHub Organization:
 
 | Vertical | Organization | Flagship |
 |---|---|---|
 | 🌱 **AgriTech** | `citrusmax-ai` | CitrusMax — Persian Lime yield maximization platform |
-| 🛡 **Intelligence** | `nemesis-intel` | NEMESIS — OSINT & forensic analytics |
-| 🏠 **Real Estate** | `chatten-ventures` | Chatten House Funnel + LeadForge AI |
+ 🏠 **Real Estate** | `chatten-ventures` | Chatten House Funnel + LeadForge AI |
 | 🪞 **Logos / Wellness** | `logos-equation` | Kaira — emotional wellness companion |
 | 🍳 **FoodTech** | `chefmanny-foodtech` | ChefManny |
 | 🏥 **HealthTech** | `hmg-health` | HMG CRM |
 | 🤖 **Personal AI** | `chatita-labs` | Chatita — personal super-agent |
-| 🎓 **Education** | `cadena-harvard` | Harvard Extension coursework |
+| 🎓 **Education** | `cadena-harvard` | ALM Finance · MBA · continuing education |
 | 🔬 **Research** | `cadena-research` | Active inference · FEP · Bioelectricity |
 
 ---
@@ -37,7 +35,6 @@ My work spans multiple verticals — each one its own GitHub Organization:
 - **Active Inference & the Free Energy Principle** (Friston framework)
 - **Bioelectricity & biological computing**
 - **LLM agents, tool-use & autonomous systems**
-- **Forensic financial analysis & regulatory compliance**
 - **International migration law & corporate governance**
 
 ---
@@ -59,9 +56,8 @@ Hardware    PCB design · microcontrollers · sensor systems
 ### Currently
 
 - 🔭 Building **CitrusMax AI** — modular AgriTech platform for Finca Citrícola La Luz
-- 📚 Studying **CSCI E-106 Statistical Data Modeling** @ Harvard Extension (Spring 2026)
 - 🧠 Researching **active inference** applied to autonomous AI agents
-- ✍️ Writing on biocomputing, LLM safety, and forensic AI
+- ✍️ Writing on biocomputing, LLM safety, and agentic AI
 
 ---
 
